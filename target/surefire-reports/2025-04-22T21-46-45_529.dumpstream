@@ -1,0 +1,5 @@
+# Created at 2025-04-22T21:46:48.826
+Boot Manifest-JAR contains absolute paths in classpath 'E:\ProgettiGitHub\Meteo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
